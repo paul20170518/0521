@@ -1,0 +1,6 @@
+{
+  "name": "AI 數據分析工具",
+  "description": "快速分析 CSV 資料並產生 AI 洞察報告",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
